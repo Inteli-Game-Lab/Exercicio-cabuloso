@@ -11,7 +11,7 @@ window.onload =  function(){
                 debug: false,
             }
         },
-        scene: [Scene01, Scene02, Scene03]
+        scene: [tank]
     }
     let game  = new Phaser.Game(config);
    
