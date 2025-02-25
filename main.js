@@ -8,7 +8,7 @@ window.onload =  function(){
             default: "arcade",
             arcade: {
                 gravity:{y:200},  //gravidade 0 no eixo y (player não cai)
-                debug: false,
+                debug: true,
             }
         },
         scene: [tank]
